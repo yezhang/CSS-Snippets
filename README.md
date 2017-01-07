@@ -6,6 +6,6 @@ CSS 效果代码片段.
 
 - [littlesnippets.net](http://littlesnippets.net) 
 - [css-tricks](https://css-tricks.com/snippets/)  
-  
+
 # 代码片段分享
 - [codepen](http://codepen.io)
